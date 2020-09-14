@@ -11,7 +11,7 @@ function header() {
         </li>
         <li>
           {" "}
-          <Link to="/todolist">To do list</Link>
+          <Link to="/todolist">To-do-list</Link>
         </li>
       </nav>
     </header>
